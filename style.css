@@ -4,9 +4,10 @@
 body {
     height: 800px;
     background: linear-gradient(to bottom, #ffff00 0%, #ff9933 100%);
-
+    font-family: 'Supermercado One', cursive;
 }
 
+/* button customization*/
 .button {
     background-color: black; 
         border: none;
@@ -16,4 +17,5 @@ body {
         text-decoration: none;
         display: inline-block;
         font-size: 16px;
+        font-family: 'Supermercado One', cursive;
 }

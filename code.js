@@ -1,4 +1,4 @@
-   // add another else 
+   // Mia Goodwin, mission contol operator login, 2/6/22
 
    //login code
 function checkCreds()  {
